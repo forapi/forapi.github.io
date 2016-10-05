@@ -1,9 +1,9 @@
 # Site settings
-title: Liang Ke Jin
-description: Liang Ke Jin
+title: forapi
+description: forapi
 favicon: /assets/img/avatar.JPG
 baseurl:
-url: https://liungkejin.github.io
+url: https://forapi.github.io
 rss_url:
 
 # Build settings
